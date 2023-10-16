@@ -28,14 +28,14 @@ include('header.php');
           	<li><a href="javascript:void(0);" data-filter=".eight">THE BOULEVARD</a></li>
    		</ul>
     		<ul class="gallery">
-    			<li class="one"><a href="moore-st-moone.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382660/valcom/nasser/naser-group/Moore-min_gflhhs.png" alt="Image"></a></li>
-    			<li class="two"><a href="buckley-st.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382669/valcom/nasser/naser-group/buckley-min_sklzul.png" alt="Image"></a></li>
-    			<li class="three"><a href="nicholson-st.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382660/valcom/nasser/naser-group/Nicholson-min_jv0gqu.png" alt="Image"></a></li>
-    			<li class="four"><a href="taylor-st.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382663/valcom/nasser/naser-group/Taylor-min_sjddz0.png" alt="Image"></a></li>
-    			<li class="five"><a href="bewster-st.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382665/valcom/nasser/naser-group/Bewster-min_lrs8wp.png" alt="Image"></a></li>
-    			<li class="six"><a href="pasco-vale.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382662/valcom/nasser/naser-group/Pasco-min_g59crg.png" alt="Image"></a></li>
-    			<li class="seven"><a href="clifton-st.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382659/valcom/nasser/naser-group/Clifton-min_psi72s.png" alt="Image"></a></li>	
-    			<li class="eight"><a href="the-boulevard.php" ><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694382666/valcom/nasser/naser-group/boulevard-min_iugkcl.png" alt="Image"></a></li>
+    			<li class="one"><a href="moore-st-moone.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696582989/valcom/nasser/naser-group/Moore_dxkrza.png" alt="Image"></a></li>
+    			<li class="two"><a href="buckley-st.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696582987/valcom/nasser/naser-group/buckley_atw3pd.png" alt="Image"></a></li>
+    			<li class="three"><a href="nicholson-st.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696582987/valcom/nasser/naser-group/Nicholson_zle0p6.png" alt="Image"></a></li>
+    			<li class="four"><a href="taylor-st.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696582968/valcom/nasser/naser-group/Taylor_b0d60i.png" alt="Image"></a></li>
+    			<li class="five"><a href="bewster-st.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696582967/valcom/nasser/naser-group/Bewster_nuqsmm.png" alt="Image"></a></li>
+    			<li class="six"><a href="pasco-vale.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696582967/valcom/nasser/naser-group/Pasco_q94zvn.png" alt="Image"></a></li>
+    			<li class="seven"><a href="clifton-st.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696598783/valcom/nasser/naser-group/Clifton_lmtxub.png" alt="Image"></a></li>	
+    			<li class="eight"><a href="the-boulevard.php" ><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696583668/valcom/nasser/naser-group/boulevard_sd7zat.png" alt="Image"></a></li>
     		</ul>
     	</div>
     	<!-- end col-12 -->

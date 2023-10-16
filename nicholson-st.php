@@ -37,9 +37,9 @@ include('header.php');
     <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694505249/valcom/nasser/naser-group/nicholson/nicholson3_kvcfn9.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694505247/valcom/nasser/naser-group/nicholson/nicholson2_fbys0r.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694505248/valcom/nasser/naser-group/nicholson/nicholson1_tsqak3.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459309/valcom/nasser/naser-group/building/Nicholson/nicholson2_k3deui.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459311/valcom/nasser/naser-group/building/Nicholson/nicholson3_x5txvl.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459308/valcom/nasser/naser-group/building/Nicholson/nicholson1_xa5wqb.webp" alt="Image"></div>
          
       </div>
   <!-- add swiper-wrapper -->

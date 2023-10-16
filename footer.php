@@ -5,9 +5,9 @@
         <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s">
           <figure><img src="images/footer-icon01.png" alt="Image"></figure>
           <h3>Address</h3>
-          <p>WHP2-Block-A Commercial
-            Saih Shuaib 3, 13-0
-            Dubai, United Arab Emirates</p>
+          <p>Level 1, 109 Drummond Street,<br>
+          Carlton Vic 3053
+          </p>
         </div>
         <!-- end col-4 -->
         <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.10s">
@@ -34,7 +34,7 @@
 <footer class="footer">
   <div class="container">
     <div class="row">
-      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1691435691/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5.png" alt="Image" class="logo">
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5_mcue2h.png" alt="Image" class="logo">
         <p>We are construction and development company specializing in the construction and interior fit out of residential, commercial and industrial projects.</p>
       </div>
       <!-- end col-4 -->

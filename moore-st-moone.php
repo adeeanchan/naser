@@ -37,19 +37,18 @@ include('header.php');
     <div class="col-12" id="gallery">
       <div class="gallery-container">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694503357/valcom/nasser/naser-group/moore/Moore2_lnvqfy.png" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694503361/valcom/nasser/naser-group/moore/Moore4_yez6fl.png" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694503357/valcom/nasser/naser-group/moore/Moore3_slqebk.png" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694503453/valcom/nasser/naser-group/moore/Moore1_nb9a62.png" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507243/valcom/nasser/naser-group/moore/9_tx4kqz.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507245/valcom/nasser/naser-group/moore/10_hh2jdb.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507249/valcom/nasser/naser-group/moore/11_rkwwnm.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507249/valcom/nasser/naser-group/moore/11_rkwwnm.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507253/valcom/nasser/naser-group/moore/12_lv45ni.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507253/valcom/nasser/naser-group/moore/12_lv45ni.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507259/valcom/nasser/naser-group/moore/14_urs9uc.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507263/valcom/nasser/naser-group/moore/13_umufkl.webp" alt="Image"></div>
-    <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694503357/valcom/nasser/naser-group/moore/Moore5_wselk5.png" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455320/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/12_m3vy9i.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455320/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/9_fduhlp.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455321/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/11_nenhay.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455320/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/14_xspuqb.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455320/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/10_pitsdx.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455320/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/15_ihz2yc.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455319/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/13_pjaps3.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697455321/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/16_o7ickm.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459027/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/42_nweggq.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459025/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/44_l8zx9u.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459025/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/43_xnv8t2.webp" alt="Image"></div>
+    <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459026/valcom/nasser/naser-group/building/Moore%20St%20Moone%20Ponds/45_qxoww3.webp" alt="Image"></div>
   </div>
   <!-- add swiper-wrapper -->
   <div class="gallery-pagination"></div>

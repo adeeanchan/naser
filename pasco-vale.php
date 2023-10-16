@@ -37,9 +37,9 @@ include('header.php');
     <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694508936/valcom/nasser/naser-group/pasco-vale/pasco3_eypsvq.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694508935/valcom/nasser/naser-group/pasco-vale/pasco2_thrfgf.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694508934/valcom/nasser/naser-group/pasco-vale/pasco1_vr8whb.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460092/valcom/nasser/naser-group/building/Pasco%20Vale%20RD/pasco2_lwv40z.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460092/valcom/nasser/naser-group/building/Pasco%20Vale%20RD/pasco1_nunzcc.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460093/valcom/nasser/naser-group/building/Pasco%20Vale%20RD/pasco3_ju6ocd.webp" alt="Image"></div>
           
       </div>
   <!-- add swiper-wrapper -->

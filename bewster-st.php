@@ -37,13 +37,13 @@ include('header.php');
     <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504119/valcom/nasser/naser-group/bewster/brewster7_z0borf.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504054/valcom/nasser/naser-group/bewster/brewster6_xcsxre.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504020/valcom/nasser/naser-group/bewster/brewster2_fcocay.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504017/valcom/nasser/naser-group/bewster/brewster5_vakdfp.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504016/valcom/nasser/naser-group/bewster/brewster4_orbnos.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504017/valcom/nasser/naser-group/bewster/brewster1_we36bo.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504017/valcom/nasser/naser-group/bewster/brewster3_ibjobo.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459887/valcom/nasser/naser-group/building/Brewster%20St%20Essendon/brewster7_pqggje.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459889/valcom/nasser/naser-group/building/Brewster%20St%20Essendon/brewster6_nju1re.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459892/valcom/nasser/naser-group/building/Brewster%20St%20Essendon/brewster4_sazc8v.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459891/valcom/nasser/naser-group/building/Brewster%20St%20Essendon/brewster5_qbqbok.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459890/valcom/nasser/naser-group/building/Brewster%20St%20Essendon/brewster1_jcfklv.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459888/valcom/nasser/naser-group/building/Brewster%20St%20Essendon/brewster2_kiwr1a.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459893/valcom/nasser/naser-group/building/Brewster%20St%20Essendon/brewster3_olylui.webp" alt="Image"></div>
           
       </div>
   <!-- add swiper-wrapper -->

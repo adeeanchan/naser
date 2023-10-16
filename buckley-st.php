@@ -30,15 +30,15 @@ include('header.php');
     	</div>
     	<!-- end col-12 -->
       <div class="col-12">
-        <h2>Taylor St</h2>
+        <h2>Buckley St</h2>
         <hr class="line-horiz">
       </div>
     
     <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694503711/valcom/nasser/naser-group/buckley/buckley2_b3lzc3.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694503661/valcom/nasser/naser-group/buckley/Buckley1_gqm5er.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696583666/valcom/nasser/naser-group/buckley2_ubd8wr.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696583665/valcom/nasser/naser-group/Buckley1_rbfdud.webp" alt="Image"></div>
          
           
       </div>

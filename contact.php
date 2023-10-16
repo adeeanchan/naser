@@ -55,9 +55,11 @@
       "\r\n Phone: ". $userPhone  . 
       "\r\n Message: " . $userMessage . "\r\n";
 
-      if(mail($toEmail, $userName, $mailHeaders)) {
-          $message = "Your contact information is received successfully.";
-      }
+      if (mail($toEmail, $userName, $mailHeaders)) {
+        $successMessage = "Your contact information have been received successfully.";
+    } else {
+        $errorMessage = "Error sending the email: " . error_get_last()['message'];
+    }
     }
   ?>
 <div class="preloader">
@@ -87,12 +89,12 @@
   </div>
   <!-- end menu -->
   <div class="side-content">
-    <figure> <img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1691435691/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5.png" alt="Image"> </figure>
+    <figure> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5_mcue2h.png" alt="Image"> </figure>
     <p>We are construction and development company specializing in the construction and interior fit out of residential, commercial and industrial projects.</p>
     <ul class="gallery">
-      <li><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284922/valcom/nasser/naser-group/3-min_fr731n.png" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284922/valcom/nasser/naser-group/3-min_fr731n.png" alt="Image"></a></li>
-      <li><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286327/valcom/nasser/naser-group/26_hyjdxl.png" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286327/valcom/nasser/naser-group/26_hyjdxl.png" alt="Image"></a></li>
-      <li><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284921/valcom/nasser/naser-group/1-min_go1a3x.png" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284921/valcom/nasser/naser-group/1-min_go1a3x.png" alt="Image"></a></li>
+      <li><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696580073/valcom/nasser/naser-group/3-min_fr731n_s0wmdq.png" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580073/valcom/nasser/naser-group/3-min_fr731n_s0wmdq.png" alt="Image"></a></li>
+      <li><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696580109/valcom/nasser/naser-group/26_hyjdxl_poql2s.png" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580109/valcom/nasser/naser-group/26_hyjdxl_poql2s.png" alt="Image"></a></li>
+      <li><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/naser-group/1-min_go1a3x_u5cdgz.png" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/naser-group/1-min_go1a3x_u5cdgz.png" alt="Image"></a></li>
     </ul>
     <address>
     O 14 Tower, Marasi Drive, Business Bay, Dubai, United Arab Emirates
@@ -107,7 +109,7 @@
 <nav class="navbar">
   <div class="container">
     <div class="upper-side">
-      <div class="logo"> <a href="index.php"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1691435691/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5.png" alt="Image"></a> </div>
+      <div class="logo"> <a href="index.php"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5_mcue2h.png" alt="Image"></a> </div>
       <!-- end logo -->
       <div class="phone-email"> <img src="images/icon-phone.png" class="pr-4" alt="Image">
         <h4>+971 4 492 7000</h4>
@@ -172,7 +174,7 @@
         <div class="col-lg-6">
         	 <div class="map">
           <div class="holder" data-stellar-ratio="1.07"> 
-    <img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694288266/valcom/nasser/naser-group/image_prlo9p.png" alt="">
+    <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696582990/valcom/nasser/naser-group/image_timsfc.png" alt="">
          </div>
           <!-- end holder --> 
         </div>
@@ -211,16 +213,16 @@
           <!-- end form-group -->
         </form>
         <?php if (!empty($successMessage)) { ?>
-                <div class="success">
-                    <strong><?php echo $successMessage; ?></strong>
-                </div>
-            <?php } ?>
+              <div class="success">
+                  <strong><?php echo $successMessage; ?></strong>
+              </div>
+          <?php } ?>
 
-            <?php if (!empty($errorMessage)) { ?>
-                <div class="error">
-                    <strong><?php echo $errorMessage; ?></strong>
-                </div>
-            <?php } ?>
+          <?php if (!empty($errorMessage)) { ?>
+              <div class="error">
+                  <strong><?php echo $errorMessage; ?></strong>
+              </div>
+          <?php } ?>
         <!-- end form --> 
          <div class="form-group">
           <div id="success" class="alert alert-success wow fadeInUp" role="alert"> Your message was sent successfully! We will be in touch as soon as we can. </div>
@@ -246,9 +248,9 @@
         <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s">
           <figure><img src="images/footer-icon01.png" alt="Image"></figure>
           <h3>Address</h3>
-          <p>WHP2-Block-A Commercial
-            Saih Shuaib 3, 13-0
-            Dubai, United Arab Emirates</p>
+          <p>Level 1, 109 Drummond Street,<br>
+          Carlton Vic 3053
+          </p>
         </div>
         <!-- end col-4 -->
         <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.10s">
@@ -275,7 +277,7 @@
 <footer class="footer">
   <div class="container">
     <div class="row">
-      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1691435691/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5.png" alt="Image" class="logo">
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5_mcue2h.png" alt="Image" class="logo">
         <p>We are construction and development company specializing in the construction and interior fit out of residential, commercial and industrial projects.</p>
       </div>
       <!-- end col-4 -->

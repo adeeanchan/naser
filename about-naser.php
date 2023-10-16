@@ -30,10 +30,10 @@ include('header.php');
       <div class="col-12" id="gallery">
         <div class="gallery-container">
     <div class="swiper-wrapper">
-      <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286327/valcom/nasser/naser-group/26_hyjdxl.png" alt="Image"></div>
-      <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286328/valcom/nasser/naser-group/24_s64bci.png" alt="Image"></div>
-      <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286322/valcom/nasser/naser-group/22_swin0x.png" alt="Image"></div>
-      <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286339/valcom/nasser/naser-group/30_bglps0.png" alt="Image"></div>
+      <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580099/valcom/nasser/naser-group/24_s64bci_apedrg.png" alt="Image"></div>
+      <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580094/valcom/nasser/naser-group/22_swin0x_vf0xsz.png" alt="Image"></div>
+      <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580109/valcom/nasser/naser-group/26_hyjdxl_poql2s.png" alt="Image"></div>
+      <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696583090/valcom/nasser/naser-group/clifton1_rpi9sm.webp" alt="Image"></div>
     </div>
     <!-- add swiper-wrapper -->
     <div class="gallery-pagination"></div>
@@ -49,8 +49,8 @@ include('header.php');
        <div class="col-lg-12 wow fadeInUp" id="milestones">
         <h4>Featured Projects
         </h4>
-          <figure ><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694378654/valcom/nasser/naser-group/NASER-Company_Profile_1__page-0006_xftq1u.jpg" data-fancybox> <img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694378654/valcom/nasser/naser-group/NASER-Company_Profile_1__page-0006_xftq1u.jpg" alt=""> </a></figure>
-          <figure ><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694378653/valcom/nasser/naser-group/NASER-Company_Profile_1__page-0007_aqabgg.jpg" data-fancybox> <img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694378653/valcom/nasser/naser-group/NASER-Company_Profile_1__page-0007_aqabgg.jpg" alt=""> </a></figure>
+          <figure ><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696597793/valcom/nasser/naser-group/final_ibxeva.webp" data-fancybox> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696597793/valcom/nasser/naser-group/final_ibxeva.webp" alt=""> </a></figure>
+          <figure ><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696597768/valcom/nasser/naser-group/Commercial-Industrial-Milestones_sj4et4.webp" data-fancybox> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696597768/valcom/nasser/naser-group/Commercial-Industrial-Milestones_sj4et4.webp" alt=""> </a></figure>
           <!-- end video-content -->
        </div>
 		</div>

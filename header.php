@@ -12,7 +12,7 @@
 
 <!-- SOCIAL MEDIA META -->
 <meta property="og:description" content="Naser Group | Real Estate & Luxury Homes">
-<meta property="og:image" content="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284922/valcom/nasser/naser-group/3-min_fr731n.png">
+<meta property="og:image" content="https://res.cloudinary.com/adee-anchan/image/upload/v1696580073/valcom/nasser/naser-group/3-min_fr731n_s0wmdq.png">
 <meta property="og:site_name" content="Naser Group">
 <meta property="og:title" content="Naser Group">
 <meta property="og:type" content="website">
@@ -24,7 +24,7 @@
 <meta name="twitter:creator" content="@nasergroup">
 <meta name="twitter:title" content="Naser Group">
 <meta name="twitter:description" content="Naser Group | Real Estate & Luxury Homes">
-<meta name="twitter:image" content="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284922/valcom/nasser/naser-group/3-min_fr731n.png">
+<meta name="twitter:image" content="https://res.cloudinary.com/adee-anchan/image/upload/v1696580073/valcom/nasser/naser-group/3-min_fr731n_s0wmdq.png">
 
 <!-- FAVICON FILES -->
 <link rel="apple-touch-icon" sizes="180x180" href="ico/apple-touch-icon.png">
@@ -69,12 +69,12 @@
   </div>
   <!-- end menu -->
   <div class="side-content">
-    <figure> <img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1691435691/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5.png" alt="Image"> </figure>
+    <figure> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5_mcue2h.png" alt="Image"> </figure>
     <p>We are construction and development company specializing in the construction and interior fit out of residential, commercial and industrial projects.</p>
     <ul class="gallery">
-      <li><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284922/valcom/nasser/naser-group/3-min_fr731n.png" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284922/valcom/nasser/naser-group/3-min_fr731n.png" alt="Image"></a></li>
-      <li><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286327/valcom/nasser/naser-group/26_hyjdxl.png" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694286327/valcom/nasser/naser-group/26_hyjdxl.png" alt="Image"></a></li>
-      <li><a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284921/valcom/nasser/naser-group/1-min_go1a3x.png" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284921/valcom/nasser/naser-group/1-min_go1a3x.png" alt="Image"></a></li>
+      <li><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696580073/valcom/nasser/naser-group/3-min_fr731n_s0wmdq.png" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580073/valcom/nasser/naser-group/3-min_fr731n_s0wmdq.png" alt="Image"></a></li>
+      <li><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696580109/valcom/nasser/naser-group/26_hyjdxl_poql2s.png" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580109/valcom/nasser/naser-group/26_hyjdxl_poql2s.png" alt="Image"></a></li>
+      <li><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/naser-group/1-min_go1a3x_u5cdgz.png" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/naser-group/1-min_go1a3x_u5cdgz.png" alt="Image"></a></li>
     </ul>
     <address>
     O 14 Tower, Marasi Drive, Business Bay, Dubai, United Arab Emirates
@@ -89,7 +89,7 @@
 <nav class="navbar">
   <div class="container">
     <div class="upper-side">
-      <div class="logo"> <a href="index.php"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1691435691/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5.png" alt="Image"></a> </div>
+      <div class="logo"> <a href="index.php"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580072/valcom/nasser/logo/naser_logo_white_transparent_ysxpa5_mcue2h.png" alt="Image"></a> </div>
       <!-- end logo -->
       <div class="phone-email"> <img src="images/icon-phone.png" class="pr-4" alt="Image">
         <h4>+971 4 492 7000</h4>

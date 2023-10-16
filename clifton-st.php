@@ -37,12 +37,12 @@ include('header.php');
     <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504722/valcom/nasser/naser-group/clifton/clifton1_gmlmm9.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504723/valcom/nasser/naser-group/clifton/clifton2_w4o0wc.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504730/valcom/nasser/naser-group/clifton/clifton4_crolgm.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504728/valcom/nasser/naser-group/clifton/clifton5_y2njym.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504732/valcom/nasser/naser-group/clifton/clifton3_leympe.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504725/valcom/nasser/naser-group/clifton/clifton16_ykqgfw.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460301/valcom/nasser/naser-group/building/Clifton%20St%20Essendon/clifton2_stnsb6.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460299/valcom/nasser/naser-group/building/Clifton%20St%20Essendon/clifton3_y1wejm.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460298/valcom/nasser/naser-group/building/Clifton%20St%20Essendon/clifton4_ayu3j9.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460296/valcom/nasser/naser-group/building/Clifton%20St%20Essendon/clifton5_bnqpbw.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460295/valcom/nasser/naser-group/building/Clifton%20St%20Essendon/clifton16_ipajp2.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460296/valcom/nasser/naser-group/building/Clifton%20St%20Essendon/clifton1_gpx4bt.webp" alt="Image"></div>
       </div>
   <!-- add swiper-wrapper -->
       <div class="gallery-pagination"></div>

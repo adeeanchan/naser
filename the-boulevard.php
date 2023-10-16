@@ -38,19 +38,19 @@ include('header.php');
     <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506876/valcom/nasser/naser-group/the%20boulevard/26_oo1hyy.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507222/valcom/nasser/naser-group/the%20boulevard/28_wdzdrq.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506869/valcom/nasser/naser-group/the%20boulevard/23_wxgszq.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506866/valcom/nasser/naser-group/the%20boulevard/22_ljk6fg.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506872/valcom/nasser/naser-group/the%20boulevard/24_azowp0.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506860/valcom/nasser/naser-group/the%20boulevard/25_nuwj11.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506863/valcom/nasser/naser-group/the%20boulevard/32_yonz0o.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506860/valcom/nasser/naser-group/the%20boulevard/20_rfp0ej.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506858/valcom/nasser/naser-group/the%20boulevard/21_audhou.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507226/valcom/nasser/naser-group/the%20boulevard/31_go3gch.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507223/valcom/nasser/naser-group/the%20boulevard/30_a9hixl.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694507231/valcom/nasser/naser-group/the%20boulevard/18_neheda.webp" alt="Image"></div>
-        <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694506879/valcom/nasser/naser-group/the%20boulevard/27_uvhku5.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460705/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/31_dhdtqm.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460707/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/18_qmvwn9.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460703/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/21_llqxof.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460710/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/28_qzqeaz.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460712/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/32_o7tbu7.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460714/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/25_mwqhw4.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460715/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/23_si3kvw.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460708/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/27_rrwsh8.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460697/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/30_t8fagi.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460702/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/22_qysc3a.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460700/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/26_bta6rp.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460699/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/24_vvlaj2.webp" alt="Image"></div>
+        <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697460696/valcom/nasser/naser-group/building/The%20Boulevard%20Aberfeldie/20_dswbfh.webp" alt="Image"></div>
       </div>
   <!-- add swiper-wrapper -->
       <div class="gallery-pagination"></div>

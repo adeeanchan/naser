@@ -38,10 +38,10 @@ include('header.php');
     <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694505840/valcom/nasser/naser-group/taylor/42_oigoco.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694505842/valcom/nasser/naser-group/taylor/43_pt9wil.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694505836/valcom/nasser/naser-group/taylor/44_jmhn1k.webp" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694505837/valcom/nasser/naser-group/taylor/45_w3rfhu.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459027/valcom/nasser/naser-group/building/Taylor%20St/42_nweggq.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459026/valcom/nasser/naser-group/building/Taylor%20St/45_qxoww3.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459025/valcom/nasser/naser-group/building/Taylor%20St/44_l8zx9u.webp" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697459025/valcom/nasser/naser-group/building/Taylor%20St/43_xnv8t2.webp" alt="Image"></div>
         
           
       </div>
