@@ -232,19 +232,19 @@ include('header.php');
         <small> </small> </div>
       <!-- end col-5 -->
       <div class="col-lg-2 col-md-3 col-sm-6 col-6 wow fadeInUp" data-wow-delay="0.05s">
-        <figure> <a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504119/valcom/nasser/naser-group/bewster/brewster7_z0borf.webp" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504119/valcom/nasser/naser-group/bewster/brewster7_z0borf.webp" alt="Image"></a> </figure>
+        <figure> <a href="https://res.cloudinary.com/adee-anchan/image/upload/v1697462987/valcom/nasser/naser-group/building/2021-Ivanhoe-GardensStg2-Thumbnail_fjbfqk.webp" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697462987/valcom/nasser/naser-group/building/2021-Ivanhoe-GardensStg2-Thumbnail_fjbfqk.webp" alt="Image"></a> </figure>
       </div>
       <!-- end col-3 -->
       <div class="col-lg-2 col-md-3 col-sm-6 col-6 wow fadeInUp" data-wow-delay="0.10s">
-        <figure> <a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504020/valcom/nasser/naser-group/bewster/brewster2_fcocay.webp" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504020/valcom/nasser/naser-group/bewster/brewster2_fcocay.webp" alt="Image"></a> </figure>
+        <figure> <a href="https://res.cloudinary.com/adee-anchan/image/upload/v1697462988/valcom/nasser/naser-group/building/tile-5_2x_afdbhk.webp" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697462988/valcom/nasser/naser-group/building/tile-5_2x_afdbhk.webp" alt="Image"></a> </figure>
       </div>
       <!-- end col-3 -->
       <div class="col-lg-2 col-md-3 col-sm-6 col-6 wow fadeInUp" data-wow-delay="0.15s">
-        <figure> <a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504016/valcom/nasser/naser-group/bewster/brewster4_orbnos.webp" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504016/valcom/nasser/naser-group/bewster/brewster4_orbnos.webp" alt="Image"></a> </figure>
+        <figure> <a href="https://res.cloudinary.com/adee-anchan/image/upload/v1697462987/valcom/nasser/naser-group/building/2022-Porter-Thumbnail_fu2vwj.webp" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697462987/valcom/nasser/naser-group/building/2022-Porter-Thumbnail_fu2vwj.webp" alt="Image"></a> </figure>
       </div>
       <!-- end col-3 -->
       <div class="col-lg-2 col-md-3 col-sm-6 col-6 wow fadeInUp" data-wow-delay="0.20s">
-        <figure> <a href="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504017/valcom/nasser/naser-group/bewster/brewster5_vakdfp.webp" data-fancybox><img src="https://res.cloudinary.com/dcesrrt95/image/upload/v1694504017/valcom/nasser/naser-group/bewster/brewster5_vakdfp.webp" alt="Image"></a> </figure>
+        <figure> <a href="https://res.cloudinary.com/adee-anchan/image/upload/v1697462987/valcom/nasser/naser-group/building/2023-SignalHouseThumbnail_d8uxgk.webp" data-fancybox><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1697462987/valcom/nasser/naser-group/building/2023-SignalHouseThumbnail_d8uxgk.webp" alt="Image"></a> </figure>
       </div>
       <!-- end col-3 --> 
     </div>

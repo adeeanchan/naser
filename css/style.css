@@ -934,7 +934,7 @@ button[type=submit] {
   font-size: 5vw;
   /* color: #fff; */
   font-family: "Playfair Display", serif;
-  color: #24c060!important;
+  color: #fff!important;
   margin-bottom: 20px;
 }
 .slider .slider-container .swiper-slide .container h1 span {
