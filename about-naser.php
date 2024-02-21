@@ -18,7 +18,7 @@ include('header.php');
 		<div class="row">
 			<div class="col-12">
 				  <h2><span>Naser</span> Excellency</h2>
-        <h5>By aiming to take the life quality to an upper level with the whole realized Projects of luxury.</h5>
+        <h5>"Quality is not an act, it is a habit."</h5>
 			</div>
 			<!-- end col-12 -->
 			 <div class="col-12">
@@ -39,20 +39,20 @@ include('header.php');
     <div class="gallery-pagination"></div>
     <!-- end gallery-pagination -->
     </div>
-        <h6>The Essence of Luxury: A Seamless Fusion of Design, Craftsmanship, and Impeccable Attention to Detail</h6>
+        <h6>Why choose us?</h6>
+        <p class="font-weight-bold">Experience and Reputation</p>
         <p>Luxury, a word that evokes images of opulence, extravagance, and exclusivity, is a concept that has fascinated and captivated humanity for centuries. It's not merely about possessing expensive items or residing in grand mansions; rather, true luxury encompasses a deeper, more profound essence. At its core, luxury is about the seamless fusion of design, craftsmanship, and impeccable attention to detail.</p><br>
-        <h6>Design: The Genesis of Luxury</h6>
-        <p>Design is the first pillar of luxury, the initial spark that ignites the journey towards the extraordinary. In the world of luxury, design is more than aesthetics; it is an art form, a manifestation of creativity that pushes boundaries and challenges conventions. The design process often involves a meticulous exploration of form, function, and aesthetics, with the aim of creating something that not only serves a purpose but elevates it to the realm of art.</p>
-        <p>Consider the world of high fashion, where legendary designers like Coco Chanel, Christian Dior, and Giorgio Armani have left an indelible mark. Their creations go beyond mere clothing; they are masterpieces that drape the human form in elegance and sophistication. The design of a luxury item isn't just about making it visually appealing; it's about ensuring that every aspect, from the choice of materials to the ergonomics, aligns with the brand's vision of luxury.</p>
+        <h6>Why choose our project?</h6>
+        <p class="font-weight-bold">Value Engineering</p>
+        <p>In the process of designing our projects, we employ value engineering with a dual focus. Our aim is to create properties that not only yield enhanced capital appreciation for investors but also offer superior value for residents, resulting in a favorable outcome for all parties involved.</p>
        
 			</div>
-       <div class="col-lg-12 wow fadeInUp" id="milestones">
+      <!-- <div class="col-lg-12 wow fadeInUp" id="milestones">
         <h4>Featured Projects
         </h4>
           <figure ><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696597793/valcom/nasser/naser-group/final_ibxeva.webp" data-fancybox> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696597793/valcom/nasser/naser-group/final_ibxeva.webp" alt=""> </a></figure>
           <figure ><a href="https://res.cloudinary.com/adee-anchan/image/upload/v1696597768/valcom/nasser/naser-group/Commercial-Industrial-Milestones_sj4et4.webp" data-fancybox> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696597768/valcom/nasser/naser-group/Commercial-Industrial-Milestones_sj4et4.webp" alt=""> </a></figure>
-          <!-- end video-content -->
-       </div>
+      </div> -->
 		</div>
 		<!-- end row -->
 	</div>

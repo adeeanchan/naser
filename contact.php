@@ -27,10 +27,10 @@
 <meta name="twitter:image" content="https://res.cloudinary.com/dcesrrt95/image/upload/v1694284922/valcom/nasser/naser-group/3-min_fr731n.png">
 
 <!-- FAVICON FILES -->
-<link rel="apple-touch-icon" sizes="180x180" href="/ico/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/ico/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/ico/favicon-16x16.png">
-<link rel="manifest" href="/ico/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="ico/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="ico/favicon-16x16.png">
+<link rel="manifest" href="ico/site.webmanifest">
 
 <!-- CSS FILES -->
 <link rel="stylesheet" href="css/fontawesome.min.css">

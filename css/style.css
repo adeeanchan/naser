@@ -3594,4 +3594,25 @@ div.scroll-container img{
   height: 1px;
 }
 
+.photo-gallery .com-para{
+  word-spacing: 1px;
+}
+.com-image-container {
+  overflow: hidden;
+  width: 100%; /* Set the width to the original width of the image */
+  max-width: 100%; /* Ensure the container doesn't exceed the image size */
+}
+
+.com-image {
+  width: 100%; /* Make the image fill the container */
+  transition: transform 0.5s ease-in-out;
+}
+
+.com-image:hover {
+  transform: scale(1.2); /* You can adjust the scale factor as needed */
+}
+.info-com h5{
+  font-weight: 600!important;
+}
+
 /*# sourceMappingURL=style.css.map */
