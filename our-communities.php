@@ -8,10 +8,10 @@ include('header.php');
 </style>
 <header class="page-header" data-background="https://res.cloudinary.com/dcesrrt95/image/upload/v1694383637/valcom/nasser/naser-group/page_bfqnhz.jpg" data-stellar-background-ratio="1.15">
   <div class="container">
-    <h1>Our Communities</h1>
+    <h1>Our Projects</h1>
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="#">Home</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Our Communities</li>
+      <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
     </ol>
   </div>
   <!-- end container --> 

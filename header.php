@@ -62,7 +62,7 @@
       <li><a href="index.php">Home</a></li>
       <li><a href="about-naser.php">About Us</a>
       </li>
-      <li><a href="our-communities.php">Our Communities</a>
+      <li><a href="our-communities.php">Our Projects</a>
       </li>
       <li><a href="contact.php">Contact</a></li>
     </ul>
@@ -103,7 +103,7 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="about-naser.php">About Us</a>
         </li>
-        <li><a href="our-communities.php">Our Communities</a>
+        <li><a href="our-communities.php">Our Projects</a>
         </li>
         
         <li><a href="contact.php">Contact</a></li>

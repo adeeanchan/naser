@@ -82,7 +82,7 @@ include('header.php');
       <!-- end col-12 -->
       <div class="col wow fadeInUp" data-wow-delay="0s">
         <figure> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580087/valcom/icons/1_yxiram_up7ken.png" alt="Image"> <b></b> </figure>
-        <h6>Total Project Value</h6>
+        <h6>Project Value</h6>
         <span class="odometer" data-count="3.24" data-status="yes">0</span> <span class="extra">Billion</span> </div>
       <!-- end col -->
       <div class="col wow fadeInUp" data-wow-delay="0.05s">
@@ -92,7 +92,7 @@ include('header.php');
       <!-- end col -->
       <div class="col wow fadeInUp" data-wow-delay="0.10s">
         <figure> <img src="https://res.cloudinary.com/adee-anchan/image/upload/v1696580087/valcom/icons/2_yegq8c_nyms1j.png" alt="Image"> <b></b> </figure>
-        <h6>Projects Under-development</h6>
+        <h6>Projects Under Development</h6>
         <span class="odometer" data-count="11" data-status="yes">0</span> <span class="extra"></span> </div>
       <!-- end col -->
       <div class="col wow fadeInUp" data-wow-delay="0.15s">
