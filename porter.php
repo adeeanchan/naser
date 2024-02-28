@@ -3,7 +3,7 @@ include('header.php');
 ?>
 <header class="page-header" data-background="https://res.cloudinary.com/dcesrrt95/image/upload/v1694383637/valcom/nasser/naser-group/page_bfqnhz.jpg" data-stellar-background-ratio="1.15">
   <div class="container">
-    <h1>North Lane</h1>
+    <h1>Porter</h1>
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="index.php">Home</a></li>
       <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
@@ -50,12 +50,11 @@ include('header.php');
   <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594025/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-04_tpatmv.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594027/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-05_tgcwxe.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594034/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-02_gxxzzt.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-03_yo6cg8.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-01_cfbclu.png" alt="Image"></div>
-          
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103363/valcom/nasser/naser-group/porter/2022-Porter-Portfolio-2000px-05-1920x1008_w9l5ib.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103362/valcom/nasser/naser-group/porter/2022-Porter-Portfolio-2000px-04-1920x1008_f4zo7l.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103362/valcom/nasser/naser-group/porter/2022-Porter-Portfolio-2000px-01-1920x1008_ygodxi.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103361/valcom/nasser/naser-group/porter/2022-Porter-Portfolio-2000px-02-1920x1008_vnfgh9.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103361/valcom/nasser/naser-group/porter/2022-Porter-Portfolio-2000px-03-1920x1008_egrm1q.png" alt="Image"></div>
       </div>
       <div class="gallery-pagination"></div>
       </div>
@@ -64,24 +63,24 @@ include('header.php');
   <div class="container pt-4 pb-5">
     <div class="row">
       <div class="col-md-3">
-        <h1 class="text-uppercase">North Lane</h1>
+        <h1 class="text-uppercase">Porter</h1>
       </div>
       <div class="col-md-5">
-        <p>The communal plaza laneway serves as both an entrance and a uniting space for the amenity and the residents. North_lane’s materiality of brick, metal and glazing combined with striking linear and geometric form blends effortlessly into the North Melbourne neighbourhood and it’s inner city industrial past. A place for welcoming, working, learning, writing, collaborating, connecting, thinking, sharing, caring, listening, entertaining, watching, discovering, inspiring, celebrating, exercising, focusing, living. A place for everyone.</p>
+        <p>Set on beautiful Birmingham street, Porter uses only carefully selected, timeless materials. Designed to effortlessly contribute to the existing neighbourhood, Porter carefully curates compositions of form and material to present a timeless facade, softened by the townhouse courtyard landscaping. Exclusive to this stage of Spotswood Yards is 1,875 sqm of amazing lifestyle amenity for residents to enjoy. Featuring entertainment zones for kids, adults, movie buffs, sports fans and creative types, porter fulfills every mood and leisure time activity.</p>
       </div>
       <div class="col-md-4">
         <div class="info-com">
           <h5 class="text-uppercase">Location</h5>
-          <p>77 SUTTON ST
-            NORTH MELBOURNE VICTORIA</p>
+          <p>37 BIRMINGHAM STREET
+          SPOTSWOOD VICTORIA</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">PROJECT INFORMATION</h5>
-          <p>214 APARTMENTS</p>
+          <p>59 APARTMENTS</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">STATUS</h5>
-          <p>NOW SELLING</p>
+          <p>NOW SELLING. UNDER CONSTRUCTION.</p>
         </div>
       </div>
       

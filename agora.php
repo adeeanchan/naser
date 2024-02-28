@@ -5,8 +5,8 @@ include('header.php');
   <div class="container">
     <h1>Agora</h1>
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="#">Home</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Our Communities</li>
+      <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+      <li class="breadcrumb-item " aria-current="page">Our Projects</li>
     </ol>
   </div>
 </header>

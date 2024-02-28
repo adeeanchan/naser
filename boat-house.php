@@ -3,10 +3,10 @@ include('header.php');
 ?>
 <header class="page-header" data-background="https://res.cloudinary.com/dcesrrt95/image/upload/v1694383637/valcom/nasser/naser-group/page_bfqnhz.jpg" data-stellar-background-ratio="1.15">
   <div class="container">
-    <h1>North Lane</h1>
+    <h1>Boat House</h1>
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
+      <li class="breadcrumb-item " aria-current="page">Our Projects</li>
     </ol>
   </div>
 </header>
@@ -50,12 +50,13 @@ include('header.php');
   <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594025/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-04_tpatmv.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594027/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-05_tgcwxe.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594034/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-02_gxxzzt.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-03_yo6cg8.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-01_cfbclu.png" alt="Image"></div>
-          
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103684/valcom/nasser/naser-group/boat%20hosue/2020-BoatHouse-Portfolio-2000px-04-1920x1008_iqtndz.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103680/valcom/nasser/naser-group/boat%20hosue/2020-BoatHouse-Portfolio-2000px-03-1920x1008_hzsrmc.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103682/valcom/nasser/naser-group/boat%20hosue/2020-BoatHouse-Portfolio-2000px-06-1920x1008_wkfhtj.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103687/valcom/nasser/naser-group/boat%20hosue/2020-BoatHouse-Portfolio-2000px-05-1920x1008_lfo0hw.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103685/valcom/nasser/naser-group/boat%20hosue/2020-BoatHouse-Portfolio-2000px-07-1920x1008_xfjqm5.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103691/valcom/nasser/naser-group/boat%20hosue/2020-BoatHouse-Portfolio-2000px-02-1920x1008_qrvzns.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103688/valcom/nasser/naser-group/boat%20hosue/2020-BoatHouse-Portfolio-2000px-01-1920x1008_vsogmd.png" alt="Image"></div>
       </div>
       <div class="gallery-pagination"></div>
       </div>
@@ -64,24 +65,24 @@ include('header.php');
   <div class="container pt-4 pb-5">
     <div class="row">
       <div class="col-md-3">
-        <h1 class="text-uppercase">North Lane</h1>
+        <h1 class="text-uppercase">Boat House</h1>
       </div>
       <div class="col-md-5">
-        <p>The communal plaza laneway serves as both an entrance and a uniting space for the amenity and the residents. North_lane’s materiality of brick, metal and glazing combined with striking linear and geometric form blends effortlessly into the North Melbourne neighbourhood and it’s inner city industrial past. A place for welcoming, working, learning, writing, collaborating, connecting, thinking, sharing, caring, listening, entertaining, watching, discovering, inspiring, celebrating, exercising, focusing, living. A place for everyone.</p>
+        <p>With absolute river frontage, Boat House invites you to experience exceptional architectural design in a unique inner city location. Inspired by the Maribyrnong’s charming riparian environment, Boat House reflects the neighbourhood’s rich marine heritage in a striking, articulated podium facade. Conceptually drawing on the herringbone patterns of timber boat decking and waterway tributary systems, the building embraces the natural environment with signature colonnading, creating multiple spaces that allow residents to experience the beauty of the waterfront to its fullest.</p>
       </div>
       <div class="col-md-4">
         <div class="info-com">
           <h5 class="text-uppercase">Location</h5>
-          <p>77 SUTTON ST
-            NORTH MELBOURNE VICTORIA</p>
+          <p>2 JOSEPH ROAD
+          FOOTSCRAY VICTORIA</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">PROJECT INFORMATION</h5>
-          <p>214 APARTMENTS</p>
+          <p>190 APARTMENTS</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">STATUS</h5>
-          <p>NOW SELLING</p>
+          <p>COMPLETED</p>
         </div>
       </div>
       

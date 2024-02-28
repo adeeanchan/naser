@@ -10,7 +10,7 @@ include('header.php');
   <div class="container">
     <h1>Our Projects</h1>
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="#">Home</a></li>
+      <li class="breadcrumb-item"><a href="index.php">Home</a></li>
       <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
     </ol>
   </div>
@@ -124,6 +124,111 @@ include('header.php');
 				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
 				<p class="com-para">9 BIRMINGHAM STREET SPOTSWOOD, <br>VICTORIA</p>
 				<div class="com-button"><a href="flagman.php">Learn More</a></div></a>
+			</div>
+		</div>
+		<div class="row pt-5">
+			<div class="col-md-4 text-uppercase"><a href="porter.php">
+				<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102883/valcom/nasser/naser-group/2022-Porter-Thumbnail_vdf3ub.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Porter</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">37 BIRMINGHAM STREET,
+				 <br>SPOTSWOOD VICTORIA</p>
+				<div class="com-button"><a href="porter.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="ivanhoe-gardens-stage2.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102883/valcom/nasser/naser-group/2021-Ivanhoe-GardensStg2-Thumbnail_onnrcq.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Ivanhoe Gardens Stage 2</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">378 ST GEORGES ROAD FITZROY NORTH VICTORIA</h6> -->
+				<p class="com-para">45 LINDEN AVE, <br>IVANHOE VICTORIA</p>
+				<div class="com-button"><a href="ivanhoe-gardens-stage2.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="ivanhoe-gardens-stage1.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102887/valcom/nasser/naser-group/2021-IvanhoeGardensStg1-Thumbnail_yndozp.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Ivanhoe Gardens Stage 1</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">56 MYRTLE ST, <br>IVANHOE VICTORIA</p>
+				<div class="com-button"><a href="ivanhoe-gardens-stage1.php">Learn More</a></div></a>
+			</div>
+		</div>
+		<div class="row pt-5">
+			<div class="col-md-4 text-uppercase"><a href="riverfront.php">
+				<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102886/valcom/nasser/naser-group/2020-Riverfront-Thumbnail_eeksie.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Riverfront</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">6 JOSEPH ROAD FOOTSCRAY, <br>VICTORIA</p>
+				<div class="com-button"><a href="riverfront.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="river-one.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102883/valcom/nasser/naser-group/feature-image-river-one-400x400-1_if2opx.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">River One</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">378 ST GEORGES ROAD FITZROY NORTH VICTORIA</h6> -->
+				<p class="com-para">6 JOSEPH ROAD FOOTSCRAY, <br>VICTORIA</p>
+				<div class="com-button"><a href="river-one.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="martin-powlett.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102884/valcom/nasser/naser-group/2020-MartinPowlett-Thumbnail_gg1wwy.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Martin & Powlett</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">9 MARTIN STREET HEIDELBERG, <br>VICTORIA</p>
+				<div class="com-button"><a href="martin-powlett.php">Learn More</a></div></a>
+			</div>
+		</div>
+		<div class="row pt-5">
+			<div class="col-md-4 text-uppercase"><a href="waterfront.php">
+				<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102884/valcom/nasser/naser-group/2020-Waterfront-Thumbnail_deamnl.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Waterfront</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">4 JOSEPH ROAD FOOTSCRAY, <br>VICTORIA</p>
+				<div class="com-button"><a href="waterfront.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="boat-house.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102884/valcom/nasser/naser-group/2020-BoatHouse-Thumbnail_jmpr6k.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Boat House</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">378 ST GEORGES ROAD FITZROY NORTH VICTORIA</h6> -->
+				<p class="com-para">2 JOSEPH ROAD FOOTSCRAY, <br>VICTORIA</p>
+				<div class="com-button"><a href="boat-house.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="the-grove.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102882/valcom/nasser/naser-group/portfolio-08_rqetni.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">The Grove</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">1 OLIVE YORK WAY BRUNSWICK, <br>WEST VICTORIA</p>
+				<div class="com-button"><a href="the-grove.php">Learn More</a></div></a>
+			</div>
+		</div>
+		<div class="row pt-5">
+			<div class="col-md-4 text-uppercase"><a href="embassy.php">
+				<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102883/valcom/nasser/naser-group/2019-Embassy-Thumbnail_ihwrcn.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Embassy</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">27 APPLETON STREET, <br>RICHMOND VICTORIA</p>
+				<div class="com-button"><a href="embassy.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="rima.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102883/valcom/nasser/naser-group/2018-Rima-Thumbnail_iq8wi6.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">Rima</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">378 ST GEORGES ROAD FITZROY NORTH VICTORIA</h6> -->
+				<p class="com-para">22 LYGON STREET BRUNSWICK, <br>EAST VICTORIA</p>
+				<div class="com-button"><a href="rima.php">Learn More</a></div></a>
+			</div>
+			<div class="col-md-4 text-uppercase"><a href="united-richmond.php">
+			<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102883/valcom/nasser/naser-group/2018-United-Richmond-Thumbnail_u8jmxh.jpg" alt=""></div>
+				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
+				<h6 class="com-title pt-3 font-weight-bold">United Richmond</h6>
+				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
+				<p class="com-para">203 BURNLEY STREET, <br>RICHMOND VICTORIA</p>
+				<div class="com-button"><a href="united-richmond.php">Learn More</a></div></a>
 			</div>
 		</div>
 	</div>

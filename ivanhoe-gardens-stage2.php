@@ -3,7 +3,7 @@ include('header.php');
 ?>
 <header class="page-header" data-background="https://res.cloudinary.com/dcesrrt95/image/upload/v1694383637/valcom/nasser/naser-group/page_bfqnhz.jpg" data-stellar-background-ratio="1.15">
   <div class="container">
-    <h1>North Lane</h1>
+    <h1>Ivanhoe Gardens Stage 2</h1>
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="index.php">Home</a></li>
       <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
@@ -50,12 +50,10 @@ include('header.php');
   <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594025/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-04_tpatmv.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594027/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-05_tgcwxe.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594034/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-02_gxxzzt.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-03_yo6cg8.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-01_cfbclu.png" alt="Image"></div>
-          
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103396/valcom/nasser/naser-group/ivanhoe-2/2021-IvanhoeGardensStg2-Portfolio-2000px-04-1920x1008_hdnq5q.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103395/valcom/nasser/naser-group/ivanhoe-2/2021-IvanhoeGardensStg2-Portfolio-2000px-02-1920x1008_vjcvae.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103393/valcom/nasser/naser-group/ivanhoe-2/2021-IvanhoeGardensStg2-Portfolio-2000px-05-1920x1008_ytjrd8.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103392/valcom/nasser/naser-group/ivanhoe-2/2021-IvanhoeGardensStg2-Portfolio-2000px-03-1920x1008_mxpfvg.png" alt="Image"></div>
       </div>
       <div class="gallery-pagination"></div>
       </div>
@@ -64,24 +62,25 @@ include('header.php');
   <div class="container pt-4 pb-5">
     <div class="row">
       <div class="col-md-3">
-        <h1 class="text-uppercase">North Lane</h1>
+        <h1 class="text-uppercase">Ivanhoe Gardens Stage 2</h1>
       </div>
       <div class="col-md-5">
-        <p>The communal plaza laneway serves as both an entrance and a uniting space for the amenity and the residents. North_lane’s materiality of brick, metal and glazing combined with striking linear and geometric form blends effortlessly into the North Melbourne neighbourhood and it’s inner city industrial past. A place for welcoming, working, learning, writing, collaborating, connecting, thinking, sharing, caring, listening, entertaining, watching, discovering, inspiring, celebrating, exercising, focusing, living. A place for everyone.</p>
+        <p>
+          Ivanhoe Gardens continues the luxury design aesthetic of the first stage, imbuing resort-style facilities with grand style and taking its inspiration from the spectacular green hills of the surrounding neighbourhood. Ivanhoe Gardens combines central lush garden spaces, with contemporary, stylish living. Extensive wellness, entertainment and technology offerings for all residents make daily life a breeze.</p>
       </div>
       <div class="col-md-4">
         <div class="info-com">
           <h5 class="text-uppercase">Location</h5>
-          <p>77 SUTTON ST
-            NORTH MELBOURNE VICTORIA</p>
+          <p>45 LINDEN AVE
+          IVANHOE VICTORIA</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">PROJECT INFORMATION</h5>
-          <p>214 APARTMENTS</p>
+          <p>278 APARTMENTS</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">STATUS</h5>
-          <p>NOW SELLING</p>
+          <p>SOLD OUT. UNDER CONSTRUCTION</p>
         </div>
       </div>
       

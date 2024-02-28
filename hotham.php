@@ -5,8 +5,8 @@ include('header.php');
   <div class="container">
     <h1>Hotham</h1>
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="#">Home</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Our Communities</li>
+      <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
     </ol>
   </div>
 </header>
@@ -53,7 +53,6 @@ include('header.php');
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594059/valcom/nasser/naser-group/hotham/2022-Hothan-Portfolio-2000px-02-1920x1008_af2pms.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594056/valcom/nasser/naser-group/hotham/2022-Hothan-Portfolio-2000px-03-1920x1008_hwrypx.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594063/valcom/nasser/naser-group/hotham/2022-Hothan-Portfolio-2000px-05-1920x1008_cjtisp.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594059/valcom/nasser/naser-group/hotham/2022-Hothan-Portfolio-2000px-02-1920x1008_af2pms.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594071/valcom/nasser/naser-group/hotham/2022-Hothan-Portfolio-2000px-01-1920x1008_xxl7wl.png" alt="Image"></div>
           
       </div>

@@ -5,8 +5,8 @@ include('header.php');
   <div class="container">
     <h1>Flagman</h1>
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="#">Home</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Our Communities</li>
+      <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
     </ol>
   </div>
 </header>
@@ -52,9 +52,7 @@ include('header.php');
       <div class="swiper-wrapper">
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594151/valcom/nasser/naser-group/flagman/2022-Flagman-Portfolio-2000px-05-1920x1008_ilgfdo.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594155/valcom/nasser/naser-group/flagman/2022-Flagman-Portfolio-2000px-03-1920x1008_sng77j.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594155/valcom/nasser/naser-group/flagman/2022-Flagman-Portfolio-2000px-03-1920x1008_sng77j.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594154/valcom/nasser/naser-group/flagman/2022-Flagman-Portfolio-2000px-01-1920x1008_fhhikh.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="hhttps://res.cloudinary.com/adee-anchan/image/upload/v1707594154/valcom/nasser/naser-group/flagman/2022-Flagman-Portfolio-2000px-01-1920x1008_fhhikh.png" alt="Image"></div>
           
       </div>
       <div class="gallery-pagination"></div>

@@ -3,7 +3,7 @@ include('header.php');
 ?>
 <header class="page-header" data-background="https://res.cloudinary.com/dcesrrt95/image/upload/v1694383637/valcom/nasser/naser-group/page_bfqnhz.jpg" data-stellar-background-ratio="1.15">
   <div class="container">
-    <h1>North Lane</h1>
+    <h1>Waterfront</h1>
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="index.php">Home</a></li>
       <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
@@ -50,12 +50,10 @@ include('header.php');
   <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594025/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-04_tpatmv.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594027/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-05_tgcwxe.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594034/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-02_gxxzzt.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-03_yo6cg8.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707594023/valcom/nasser/naser-group/north-lane/2022-NorthLane-Portfolio-1440px-01_cfbclu.png" alt="Image"></div>
-          
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103652/valcom/nasser/naser-group/waterfront/2020-Waterfront-Portfolio-2000px-04-2-1920x1008_wen205.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103646/valcom/nasser/naser-group/waterfront/2020-Waterfront-Portfolio-2000px-03-1920x1008_mltxce.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103650/valcom/nasser/naser-group/waterfront/2020-Waterfront-Portfolio-2000px-02-1920x1008_sxa8sn.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103648/valcom/nasser/naser-group/waterfront/2020-Waterfront-Portfolio-2000px-01-1-1920x1008_ner439.png" alt="Image"></div>
       </div>
       <div class="gallery-pagination"></div>
       </div>
@@ -64,24 +62,25 @@ include('header.php');
   <div class="container pt-4 pb-5">
     <div class="row">
       <div class="col-md-3">
-        <h1 class="text-uppercase">North Lane</h1>
+        <h1 class="text-uppercase">Waterfront</h1>
       </div>
       <div class="col-md-5">
-        <p>The communal plaza laneway serves as both an entrance and a uniting space for the amenity and the residents. North_lane’s materiality of brick, metal and glazing combined with striking linear and geometric form blends effortlessly into the North Melbourne neighbourhood and it’s inner city industrial past. A place for welcoming, working, learning, writing, collaborating, connecting, thinking, sharing, caring, listening, entertaining, watching, discovering, inspiring, celebrating, exercising, focusing, living. A place for everyone.</p>
+        <p>
+          With absolute river frontage, Waterfront invites you to experience remarkable architectural design in a rare inner city location. Inspired by the Maribyrnong river’s mellifluous presence, Waterfront reflects the neighbourhood’s charming marine character in a striking, glass facade, embraced by the leafy natural environment and featuring a lush podium garden that includes a full size lawn bowls green. Suffused with the natural tranquillity of the riverbank, Waterfront offers multiple serene spaces that allow residents to experience the beauty of the Maribyrnong river to its fullest.</p>
       </div>
       <div class="col-md-4">
         <div class="info-com">
           <h5 class="text-uppercase">Location</h5>
-          <p>77 SUTTON ST
-            NORTH MELBOURNE VICTORIA</p>
+          <p>4 JOSEPH ROAD
+          FOOTSCRAY VICTORIA</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">PROJECT INFORMATION</h5>
-          <p>214 APARTMENTS</p>
+          <p>166 APARTMENTS</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">STATUS</h5>
-          <p>NOW SELLING</p>
+          <p>COMPLETED</p>
         </div>
       </div>
       

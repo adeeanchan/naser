@@ -3,10 +3,10 @@ include('header.php');
 ?>
 <header class="page-header" data-background="https://res.cloudinary.com/dcesrrt95/image/upload/v1694383637/valcom/nasser/naser-group/page_bfqnhz.jpg" data-stellar-background-ratio="1.15">
   <div class="container">
-    <h1>Anthem</h1>
+    <h1>Embassy</h1>
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-      <li class="breadcrumb-item " aria-current="page">Our Projects</li>
+      <li class="breadcrumb-item active" aria-current="page">Our Projects</li>
     </ol>
   </div>
 </header>
@@ -50,17 +50,18 @@ include('header.php');
   <div class="col-12" id="gallery">
       <div class="gallery-container">
       <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592611/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_2000-1920x1008_txosne.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592605/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_Hero-1920x1008_vfbd8h.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592611/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_20007-1920x1008_fz5bwq.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592613/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_20002-1920x1008_rlxr1t.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592611/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_200011-1920x1008_jeokjd.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592612/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_20006-1920x1008_rpmfs4.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592613/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_200013-1920x1008_waqxrn.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592615/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_200014-1920x1008_wsw12d.png" alt="Image"></div>
-          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592615/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_200010-1920x1008_dovdri.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103709/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-03-1920x1008_s9vtfg.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103705/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-07-1920x1008_stg5on.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103707/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-08-1920x1008_dze2dx.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103716/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-05-1920x1008_fltw3q.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103720/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-04-1920x1008_nidkrs.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103718/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-09-1920x1008_pbndim.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103714/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-06-1920x1008_j20b6t.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103712/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-01-1920x1008_w5yrud.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1709103710/valcom/nasser/naser-group/embassy/2019-Embassy-Portfolio-2000px-02-1920x1008_zz0fvd.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592617/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_20008-1920x1008_hhcxjj.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592618/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_200012-1920x1008_skdhdm.png" alt="Image"></div>
+          <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592621/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_20005-1920x1008_ifuo3q.png" alt="Image"></div>
           <div class="swiper-slide"><img src="https://res.cloudinary.com/adee-anchan/image/upload/v1707592621/valcom/nasser/naser-group/anthem/ANTHEM_Completed_Portfolio_20005-1920x1008_ifuo3q.png" alt="Image"></div>
           
       </div>
@@ -71,20 +72,21 @@ include('header.php');
   <div class="container pt-4 pb-5">
     <div class="row">
       <div class="col-md-3">
-        <h1 class="text-uppercase">Anthem</h1>
+        <h1 class="text-uppercase">Embassy</h1>
       </div>
       <div class="col-md-5">
-        <p>Anthem Essendon presents the complete contemporary lifestyle package. Three state-of-the-art residential buildings, separated by three community garden spaces, and a complex of exclusive entertainment, wellbeing and self-care facilities. Combined with a thriving ground level retail hub, Anthem delivers an all-in one community neighbourhood that complements and enhances your daily life. Combining rich textures with simple, rectilinear shapes and silhouettes, Anthem’s bold industrial chic elements create a rhythmic facade of steel, metal and recycled brick inspired by New York lofts and inner-city warehouse conversions. Articulated by deep recesses and sheltered private balconies, the buildings are designed in particular to welcome maximum exposure to northern sunlight into large community gardens.</p>
+        <p>
+          Embassy presents a contemporary and truly original architectural statement in a landmark location in the heart of Richmond. Composed of tactile, organic textures of stone and timber on the street level facade and clean, lightweight metals aiming skyward, ribboned through with brass elements connecting each floor, Embassy presents an aesthetic of understated elegance. With fully open landscaped public grounds at street level, pedestrian footbridge, and over 830 square metres of indoor social spaces Embassy delivers an extravagant array of exclusive resident spaces. Featuring The Embassy Club, a cinema, games room and selection of sky gardens, Embassy is perfect for entertaining friends, working from home, relaxing at the end of a long day, or just enjoying some quiet time by yourself.</p>
       </div>
       <div class="col-md-4">
         <div class="info-com">
           <h5 class="text-uppercase">Location</h5>
-          <p>1 O’ SHANNASSY ST
-            ESSENDON NORTH VICTORIA</p>
+          <p>27 APPLETON STREET
+          RICHMOND VICTORIA</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">PROJECT INFORMATION</h5>
-          <p>245 APARTMENTS</p>
+          <p>289 APARTMENTS</p>
         </div>
         <div class="info-com">
           <h5 class="text-uppercase">STATUS</h5>
