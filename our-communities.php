@@ -155,7 +155,7 @@ include('header.php');
 		</div>
 		<div class="row pt-5">
 			<div class="col-md-4 text-uppercase"><a href="riverfront.php">
-				<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709102886/valcom/nasser/naser-group/2020-Riverfront-Thumbnail_eeksie.jpg" alt=""></div>
+				<div class="com-image-container"><img class="com-image" src="https://res.cloudinary.com/adee-anchan/image/upload/v1709195252/valcom/nasser/naser-group/Untitled_design_10_kn00a7.jpg" alt=""></div>
 				<!-- <h6 class="com-title pt-3 font-weight-bold">2022</h6> -->
 				<h6 class="com-title pt-3 font-weight-bold">Riverfront</h6>
 				<!-- <h6 class="com-title pt-3 font-weight-bold font-italic">MELBOURNE ROAD, SPOTSWOOD VICTORIA</h6> -->
