@@ -3614,5 +3614,13 @@ div.scroll-container img{
 .info-com h5{
   font-weight: 600!important;
 }
+.coming-soon img{
+  /* background: url('https://res.cloudinary.com/adee-anchan/image/upload/v1710066610/valcom/27282_oyq7me.jpg') */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
 
 /*# sourceMappingURL=style.css.map */
